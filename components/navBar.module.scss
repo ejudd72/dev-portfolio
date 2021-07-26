@@ -1,0 +1,16 @@
+
+.navBar {
+    margin-top: 0;
+    position: sticky;
+    top: 0;
+    background-color: lavender;
+    z-index: 100;
+    display: flex; 
+    justify-content: space-evenly;
+    width: 100%;
+    flex-wrap: wrap;
+
+    a {
+        color: black;
+    }
+}
